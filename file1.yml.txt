@@ -2,6 +2,5 @@ line 1
 line 2
 line 1 feature1
 ---EOD---
-
 Line in test branch
 line 2 in test branch after push
